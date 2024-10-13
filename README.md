@@ -3,17 +3,17 @@ Welcome to the Spotify UI Clone project! This repository contains the HTML and C
 
 ### Table of Contents
 
-[Project Overview](https://github.com/isthis-rishi/Spotify-UI-clone/edit/main/README.mdproject-overview)
+[Project Overview](https://github.com/isthis-rishi/Spotify-UI-clone?tab=readme-ov-file#projectoverview)
 
-[Features](https://github.com/isthis-rishi/Spotify-UI-clone/edit/main/README.mdfeatures)
+[Features](https://github.com/isthis-rishi/Spotify-UI-clone?tab=readme-ov-file#features)
 
-[Installation](https://github.com/isthis-rishi/Spotify-UI-clone/edit/main/README.mdinstallation)
+[Installation](https://github.com/isthis-rishi/Spotify-UI-clone?tab=readme-ov-file#installation)
 
-[Usage](https://github.com/isthis-rishi/Spotify-UI-clone/edit/main/README.mdusage)
+[Usage](https://github.com/isthis-rishi/Spotify-UI-clone?tab=readme-ov-file#usage)
 
-[Contributing](https://github.com/isthis-rishi/Spotify-UI-clone/edit/main/README.mdcontributing)
+[Contributing](https://github.com/isthis-rishi/Spotify-UI-clone?tab=readme-ov-file#contributing)
 
-[License](https://github.com/isthis-rishi/Spotify-UI-clone/edit/main/README.mdlicense)
+[License](https://github.com/isthis-rishi/Spotify-UI-clone?tab=readme-ov-file#license)
 
 ## Project Overview
 This project aims to replicate the Spotify UI using HTML and CSS, providing a clean, responsive design that mirrors the look and feel of the original Spotify application. The focus is on mastering front-end development techniques and best practices.
