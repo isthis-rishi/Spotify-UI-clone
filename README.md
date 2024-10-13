@@ -3,7 +3,7 @@ Welcome to the Spotify UI Clone project! This repository contains the HTML and C
 
 ### Table of Contents
 
-[Project Overview](https://github.com/isthis-rishi/Spotify-UI-clone?tab=readme-ov-file#projectoverview)
+[Project Overview](https://github.com/isthis-rishi/Spotify-UI-clone?tab=readme-ov-file#project-overview)
 
 [Features](https://github.com/isthis-rishi/Spotify-UI-clone?tab=readme-ov-file#features)
 
